@@ -15,10 +15,10 @@ export default class HelloVR extends React.Component {
         <Pano source={asset('chess-world.jpg')}/>
         <Text
           style={{
-            backgroundColor: '#777879',
-            fontSize: 0.8,
+            backgroundColor: '#000',
+            fontSize: 0.2,
             fontWeight: '400',
-            layoutOrigin: [0.5, 0.5],
+            layoutOrigin: [-2.5, 6.5],
             paddingLeft: 0.2,
             paddingRight: 0.2,
             textAlign: 'center',
