@@ -18,7 +18,7 @@ export default class HelloVR extends React.Component {
             backgroundColor: '#000',
             fontSize: 0.2,
             fontWeight: '400',
-            layoutOrigin: [-2.5, 6.5],
+            layoutOrigin: [0.5, 0.5],
             paddingLeft: 0.2,
             paddingRight: 0.2,
             textAlign: 'center',
